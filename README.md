@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Dan
 
-<!--
-**dangray-cyber/dangray-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm moving into IT support and GRC (governance, risk and compliance), based in Japan.
+My background is QA and compliance testing on PlayStation titles at Sony Interactive
+Entertainment Europe, and teaching Computer Science.
 
-Here are some ideas to get you started:
+- Studying for CompTIA Security+
+- Building hands-on labs in Windows Server and Active Directory
+- Interested in identity and access management, risk and compliance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- [Active Directory Home Lab](https://github.com/dangray-cyber/ad-homelab): Windows Server 2025 domain with Group Policy, file and print services, PowerShell onboarding scripts and 9 documented help desk tickets
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/dan-gray-cyber)
