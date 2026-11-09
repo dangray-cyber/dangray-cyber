@@ -12,6 +12,8 @@ Entertainment Europe, and teaching Computer Science.
 
 - [Active Directory Home Lab](https://github.com/dangray-cyber/ad-homelab): Windows Server 2025 domain with Group Policy, file and print services, PowerShell onboarding scripts and 9 documented help desk tickets
 
+- [SQL & Access Practice](https://github.com/dangray-cyber/sql-access-practice)**: customer orders database in Microsoft Access, rebuilt in SQLite. Joins, filters, parameter and totals queries.
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/dan-gray-cyber)
